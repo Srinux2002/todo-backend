@@ -16,6 +16,9 @@ const TASKS = [
   {
     name: "Football",
   },
+  {
+    name: "cricket",
+  },
 ];
 
 app.get("/get-tasks", (req, res) => {
